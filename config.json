@@ -1,0 +1,23 @@
+{
+  "endpoint": "mobile",
+  "gender": "female",
+  "password_type": "custom",
+  "custom_password": "Arache28",
+  "min_age": 18,
+  "max_age": 35,
+  "use_gmail": false,
+  "use_phone": false,
+  "use_tinyhost": true,
+  "use_manual_email": false,
+  "account_limit": 10000,
+  "otp_timeout": 8,
+  "otp_check_interval": 2,
+  "name_type": "rpw",
+  "worker1_count": 5,
+  "worker2_count": 5,
+  "worker3_count": 5,
+  "use_proxy": false,
+  "creation_workers": 2,
+  "monitor_workers": 5,
+  "verify_workers": 5
+}
